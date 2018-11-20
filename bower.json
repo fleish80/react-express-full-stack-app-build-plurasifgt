@@ -1,0 +1,14 @@
+{
+  "name": "react-express-full-stack-app-build-plurasifgt",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/fleish80/react-express-full-stack-app-build-plurasifgt",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
